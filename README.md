@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashilraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Experienced frontend developer from India</h3>
 
 - 🔭 I’m currently working on [RentNest](https://github.com/iashilraj/rentnest-app)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **javascript, html, css, angular**
+- 💬 Ask me about **React, Anguar, Javascript, HTML, CSS**
 
 - 📫 How to reach me **iashilraj@gmail.com**
 
